@@ -57,11 +57,3 @@ This repository houses a fully functional CRUD (Create, Read, Update, Delete) RE
 ## Contributing
 
 Contributions are welcome! Please feel free to submit a pull request if you'd like to contribute to this project.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
----
-
-Feel free to customize this description according to your project's specifics and preferences. Let me know if you need further assistance!
